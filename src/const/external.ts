@@ -97,4 +97,4 @@ export const CLASS = {
   VERTICAL: "vertical",
   HIDDEN: "flicking-hidden",
   DEFAULT_VIRTUAL: "flicking-panel"
-};
+} as const;
